@@ -2,7 +2,7 @@
 * battleshipone1.cpp 
 * Una battaglia navale contro il computer sulla costa
 * Autore: Matteo Grandi
-* Data: 4/12/2020
+* Data: 12/2/2021
  help sui codici della mappa: 0-empty, 1-ship, 2-bomb, 3-strike
 */
 #include <iostream>
